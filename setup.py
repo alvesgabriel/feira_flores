@@ -105,7 +105,8 @@ def find_package_data(
 
 PACKAGE = "libpythonpro"
 NAME = PACKAGE
-DESCRIPTION = "Módulo para gerenciar cadastrados as plantas e flores, com nome e detalhes de como devem ser os cuidados das mesmas."
+DESCRIPTION = "Módulo para gerenciar cadastrados as plantas e flores, com nome e detalhes de como devem ser os " + \
+              "cuidados das mesmas."
 AUTHOR = "Gabriel Alves"
 AUTHOR_EMAIL = "gabriel.alves.monteiro1@gmail.com"
 URL = "https://github.com/alvesgabriel/feira_flores"
