@@ -103,8 +103,8 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
-NAME = PACKAGE
+PACKAGE = "feira_flores"
+NAME = "feira-flores"
 DESCRIPTION = "Módulo para gerenciar cadastrados as plantas e flores, com nome e detalhes de como devem ser os " + \
               "cuidados das mesmas."
 AUTHOR = "Gabriel Alves"
