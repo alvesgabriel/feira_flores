@@ -2,7 +2,8 @@ language: python
 python:
   - 3.6
 install:
-  - pip install -q -r requirements-dev.txt codecov
+#  - pip install -q -r requirements-dev.txt codecov
+  - pip install -r requirements-dev.txt codecov
 script:
   - flake8
   - pytest feira_flores --cov=feira_flores
