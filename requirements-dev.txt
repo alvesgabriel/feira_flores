@@ -9,8 +9,9 @@ attrs==17.4.0
 more-itertools==4.0.0
 pluggy==0.5
 py==1.5.3
+pytest==3.6.0
 
-# Coverage
+# Coveragex
 coverage==4.5.1
 pytest-cov==2.5.1
 
