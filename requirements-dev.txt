@@ -10,7 +10,7 @@ six==1.10.0
 setuptools
 atomicwrites==1.0
 more-itertools==4.0.0
-py==1.5.0
+py==1.5.3
 pytest==3.6.0
 
 # Coverage
