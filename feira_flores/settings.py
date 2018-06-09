@@ -25,7 +25,7 @@ SECRET_KEY = '9&+(%9(_mni6g7)^#sa5=c6&ht4@a1xbm5(43_1h_!(!k3j)-8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['feira-flores.herokuapp.com', 'localhost']
 
 
 # Application definition
