@@ -23,6 +23,6 @@ def test_buscar_avatar(avatar_url):
     assert avatar_url == url
 
 
-def test_buscar_avatar_integracao():
-    url = github_api.search_avatar('renzon')
-    assert 'https://avatars3.githubusercontent.com/u/3457115?v=4' == url
+# def test_buscar_avatar_integracao():
+#     url = github_api.search_avatar('renzon')
+#     assert 'https://avatars3.githubusercontent.com/u/3457115?v=4' == url
