@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'feira_flores.core'
+    'feira_flores.core',
+    'feira_flores.plants',
 ]
 
 MIDDLEWARE = [

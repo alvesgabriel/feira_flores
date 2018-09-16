@@ -12,7 +12,7 @@ def test_home_status_code(client):
         'Feira de Flores',
         'contato@feiraflores.com.br',
         '+55 (88) 2101-5444',
-        'href="/contato"',
+        'href="/contato/"',
     ]
 )
 def test_home(client, content):
