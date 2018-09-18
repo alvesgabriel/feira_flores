@@ -1,1 +1,1 @@
-web: gunicorn feira_flores.wsgi --log-file =
+web: ./manage.py collectstatic --noinput; gunicorn feira_flores.wsgi --log-file =
